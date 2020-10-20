@@ -15,4 +15,4 @@ Use: **_python imgBlurChecker.py --images images_** to run if the set of images 
 
 - Rafael C. Gonzalez and Richard E. Woods. *Digital Image Processing (3rd Edition)*.
 - *Analysis of focus measure operators for shape-from-focus* [2013 Pertuz et al].
-- Code borrowed from: www.pyimagesearch.com 
+- Code based on: https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/ 
