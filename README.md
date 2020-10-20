@@ -15,4 +15,4 @@ Use: **_python imgBlurChecker.py --images images_** to run if the set of images 
 
 - Rafael C. Gonzalez and Richard E. Woods. *Digital Image Processing (3rd Edition)*.
 - *Analysis of focus measure operators for shape-from-focus* [2013 Pertuz et al].
-- www.pyimagesearch.com 
+- Code borrowed from: www.pyimagesearch.com 
